@@ -1,3 +1,4 @@
+//Dado um array de objetos representando produtos, encontre o produto mais caro.
 const produtos = [
     { nome: "Mouse", preco: 50 },
     { nome: "Teclado", preco: 120 },

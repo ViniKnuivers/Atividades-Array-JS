@@ -15,3 +15,5 @@ const arrumar = alunos.reduce((acumulador, aluno) => {
 }, {});
 
 console.log(arrumar);
+
+//Formatar turmas
